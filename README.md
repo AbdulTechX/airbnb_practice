@@ -45,28 +45,29 @@ The AirBnB console can run in both interactively and non interactively.
 
 in the interactive mode the console will display a prompt (hbnb) indicating that the user can write and execute a command. After command is run, the prompt will appear again and wait for new command.it can go indefininetly as long as the user does not exit the program.
 
-$ ./console.py
-(hbnb) help
 
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
+    $ ./console.py
+    (hbnb) help
 
-(hbnb) 
-(hbnb) 
-(hbnb) quit
-$
+    Documented commands (type help <topic>):
+    ========================================
+    EOF  help  quit
+
+    (hbnb) 
+    (hbnb) 
+    (hbnb) quit
+    $
 
 in Non-interactive mode: the console will run by piping any command  into execution of the file console.py at the command line.
 
-$ echo "help" | ./console.py
-(hbnb) 
-Documented commands (type help <topic>):
-========================================
-EOF  all  count  create  destroy  help  quit  show  update
+    $ echo "help" | ./console.py
+    (hbnb) 
+    Documented commands (type help <topic>):
+    ========================================
+    EOF  all  count  create  destroy  help  quit  show  update
 
-(hbnb) 
-$
+    (hbnb) 
+    $
 
 ## Console Commands
 The AirBnB console support the following commands:
