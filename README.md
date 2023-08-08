@@ -1,4 +1,4 @@
 ## Airbnb Clone Project
 
-![airnnb](https://github.com/AbdulTechX/airbnb_practice/assets/125444167/15022ea7-d62e-490c-a7ed-0ae36cdd89d0)
+![airnnb](https://github.com/AbdulTechX/airbnb_practice/assets/125444167/774d34f7-2668-4645-8934-1a3d75f2972d)
 
